@@ -19,5 +19,7 @@
 @import url('../blocks/profile/__add-button/profile__add-button.css');
 /* Elements */
 @import url('../blocks/elements/elements.css');
+@import url('../blocks/elements/__grid/elements__grid.css');
 /* Footer */
 @import url('../blocks/footer/footer.css');
+@import url('../blocks/footer/cp/footer__cp.css');
