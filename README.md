@@ -2,15 +2,18 @@
 
 ### Descripción general
 
-* Figma
-* Imágenes
+* Una galería de fotografías interactiva como parte del curso de Web Developent de [**Practicum**](https://practicum.com/es-mex/web/)
+* Link al proyecto en [**GitHub Pages**](https://mikecviteri.github.io/web_project_4_esp/)
+* Link al diseño en [**Figma**](https://www.figma.com/file/zXzLVGc4KNVm3FMTsAnQnH/WEB%2C-Sprint-4%3A-Alrededor-de-los-EEUU-%7C-desktop-%2B-mobile?node-id=0%3A1)
 
-**Figma**
+### Tecnologías utilizadas
 
-* [Enlace al proyecto en Figma](https://www.figma.com/file/LDMgqWesKpQkIwhOfEBuTS/WEB%2C-Sprint-5%3A-Around-The-U.S.-%7C-desktop-%2B-mobile?node-id=0%3A1)
+* JavaScript
+* HTML
+* CSS
 
-**Imágenes**
+### Siguientes pasos
 
-A la hora de trabajar, debes optar por exportar las imágenes directamente desde Figma; te recomendamos hacerlo para practicar más. No olvides optimizarlas [aquí](https://tinypng.com/), para que tu proyecto cargue más rápido. 
+* Hacer más interactiva la página con la sección de elementos
+* Guardar los cambios en un servidor
 
-¡Esperamos que te diviertas con JavaScript!
