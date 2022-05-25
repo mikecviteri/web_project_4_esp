@@ -1,0 +1,23 @@
+.profile__text {
+  max-width: 415px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(2, auto);
+  grid-template-rows: repeat(2, auto);
+  grid-template-areas:
+      "name button"
+      "description description";
+  row-gap: 13px;
+  column-gap: 18px;
+  justify-items: start;
+  align-content: center;
+}
+
+@media screen and (max-width: 880px) {
+  .profile__text {
+    max-width: 282px;
+    justify-content: center;
+    row-gap: 14px;
+    column-gap: 10px;
+  }
+}
