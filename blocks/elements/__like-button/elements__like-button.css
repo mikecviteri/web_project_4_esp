@@ -1,0 +1,18 @@
+.elements__like-button {
+  max-width: 21px;
+  min-height: 19px;
+  width: 100%;
+  background-image: url('../../../images/Like.png');
+  background-color: #FFFFFF;
+  border: none;
+}
+
+.elements__like-button:hover {
+  opacity: 0.5;
+  cursor: pointer;
+}
+
+.liked {
+  background-image: url('../../../images/Like-active.png');
+  opacity: 1;
+}

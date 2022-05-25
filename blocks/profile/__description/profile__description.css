@@ -5,6 +5,8 @@
   line-height: 21.87px;
   grid-area: "description";
   background-repeat: no-repeat;
+  overflow: hidden;
+  text-overflow: ellipsis;
   margin: 0;
   }
 
