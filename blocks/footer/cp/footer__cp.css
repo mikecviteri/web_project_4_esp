@@ -1,0 +1,12 @@
+.footer__cp {
+  color: #545454;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 21.78px;
+}
+
+@media screen and (max-width: 880px) {
+  .footer__copyright {
+    font-size: 0.875rem;
+  }
+}
